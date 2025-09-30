@@ -49,7 +49,6 @@ BadWords = [
     "anus",
     "apeshit",
     "arsehole",
-    "ass",
     "assmunch",
     "auto erotic",
     "autoerotic",
@@ -482,7 +481,15 @@ BadWords = [
 "raeper",
 "raeped",
 "rapingg",
-"rapistt"
+"rapistt",
+"pekora",
+".zip",
+".com",
+".org",
+".xyz",
+".io",
+"nazi",
+"jew"
 ]
 
 ExtendedBadWords = []
